@@ -1,0 +1,10 @@
+body {
+    display: grid;
+    grid-template-columns: 100px auto;
+    justify-items: center;
+}
+
+iframe {
+    width: 500px;
+    height: 500px;
+}
