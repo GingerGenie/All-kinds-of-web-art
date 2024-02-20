@@ -1,0 +1,4 @@
+.animation {
+    transition-property: background-color;
+    transition-duration: 10s;
+}
